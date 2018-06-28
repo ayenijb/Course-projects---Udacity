@@ -1,0 +1,38 @@
+/* add your CSS here */
+<style>
+	body{
+			width: 320px;
+			height: 750px;
+		}
+	.container{
+		border: solid 1px;
+		box-shadow: 10px 5px 5px #D3D3D3;
+		width: 320px;
+		padding-left: 15px;
+	}
+
+	p{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+
+	#P1{
+		font-style: italic;
+	}
+
+	ul,li{
+		list-style-type: none;
+		padding-left: 5px;
+	}
+
+	.character{
+		border: solid 1px;
+		border-color: grey;
+		width: 300px;
+	}
+
+	#htitle{
+		text-align: center;
+	}
+	
+</style>
